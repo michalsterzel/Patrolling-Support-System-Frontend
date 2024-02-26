@@ -30,12 +30,3 @@ Here are some screens of the application:
 
 
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
