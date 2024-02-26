@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This application is best run using the [Node.js](https://nodejs.org/en) environment. Learn more about it [here](https://nodejs.org/en/about).
+
+Before running the application using `npm start` make sure to run `npm install` in order to download all the necessary packages required for the application to run.
+
 ## Available Scripts
 
 In the project directory, you can run:
